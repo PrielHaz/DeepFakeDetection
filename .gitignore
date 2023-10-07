@@ -1,0 +1,5 @@
+kaggleDFT/Dataset/Test/*
+kaggleDFT/Dataset/Train/*
+kaggleDFT/Dataset/Validation/*
+kaggleDFT/deepfakeModel*
+CADDM/checkpoints/*
